@@ -1,0 +1,8 @@
+HausFind PNG starter package
+
+START HERE: README.md
+Android Studio project: app/ + settings.gradle + build.gradle
+Offline web app / PWA source: web/
+Privacy policy draft: PRIVACY-POLICY-DRAFT.md
+
+This ZIP is source code, not a compiled APK or signed Play Store AAB. The build environment used to create this package did not have Android SDK/Gradle installed, so no compiled binary is included.
