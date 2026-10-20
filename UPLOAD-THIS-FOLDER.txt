@@ -1,0 +1,1 @@
+Upload these four files to the same folder that contains the index.html currently shown by your GitHub Pages website. Replace index.html and sw.js when prompted. If the current site uses the repository root, upload these files to the root. If it uses /web, upload them to /web instead.
